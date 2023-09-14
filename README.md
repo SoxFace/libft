@@ -1,9 +1,13 @@
 ## About libft
 
 The linter and styleguide for 42 does not allow students to have access to the highly useful
-standard functions. Lib_ft (ft = fourty two) project is about understanding the way these functions work,
-implementing and learning to use them. Your will create your own library. It will be
-helpful since you will use it in your next C school assignments.
+standard functions. Lib_ft (library_fourty_two) project is about understanding the way these functions work,
+implementing and learning to use them. The only functions from C's standard library allowed were `malloc` and `free`.
+
+For styleguide, testing, validating and styleguide I used:
+
+- [42's Norminette](https://github.com/42School/norminette)
+- [libft-unit-tests](https://github.com/alelievr/libft-unit-test)
 
 ## List of functions:
 
@@ -55,15 +59,3 @@ helpful since you will use it in your next C school assignments.
 - [x] `ft_putstr_fd` - output string to given file.
 - [x] `ft_putendl_fd` - output string to given file with newline.
 - [x] `ft_putnbr_fd` - output integer to given file.
-
-### Linked list functions (bonus)
-
-- [] `ft_lstnew`- create new list.
-- [] `ft_lstsize` - count elements of a list.
-- [] `ft_lstlast` - find last element of list.
-- [] `ft_lstadd_back` - add new element at end of list.
-- [] `ft_lstadd_front` - add new element at beginning of list.
-- [] `ft_lstdelone` - delete element from list.
-- [] `ft_lstclear' - delete sequence of elements of list from a starting point.
-- [] `ft_lstiter` - apply function to content of all list's elements.
-- [] `ft_lstmap`- apply function to content of all list's elements into new list.
