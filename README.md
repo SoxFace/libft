@@ -4,7 +4,7 @@ The linter and styleguide for 42 does not allow students to have access to the h
 standard functions. Lib_ft (library_fourty_two) project is about understanding the way these functions work,
 implementing and learning to use them. The only functions from C's standard library allowed were `malloc` and `free`.
 
-For styleguide, testing, validating and styleguide I used:
+For styleguide, testing, validating and benchmarking I used:
 
 - [42's Norminette](https://github.com/42School/norminette)
 - [libft-unit-tests](https://github.com/alelievr/libft-unit-test)
